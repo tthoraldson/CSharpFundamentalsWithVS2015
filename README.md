@@ -8,3 +8,5 @@
 * Exercise 5
 * Exercise 6
 * Exercise 7
+
+All exercises are from PluralSight
