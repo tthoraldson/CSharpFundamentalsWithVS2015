@@ -9,4 +9,4 @@
 * Exercise 6
 * Exercise 7
 
-All exercises are from PluralSight
+All exercises are from PluralSight.
