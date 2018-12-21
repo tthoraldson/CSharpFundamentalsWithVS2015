@@ -1,0 +1,6 @@
+C:\playground\CSharpFundamentalsWithVS2015\exercise2\exercise2\bin\Debug\exercise2.exe.config
+C:\playground\CSharpFundamentalsWithVS2015\exercise2\exercise2\bin\Debug\exercise2.exe
+C:\playground\CSharpFundamentalsWithVS2015\exercise2\exercise2\bin\Debug\exercise2.pdb
+C:\playground\CSharpFundamentalsWithVS2015\exercise2\exercise2\obj\Debug\exercise2.csprojResolveAssemblyReference.cache
+C:\playground\CSharpFundamentalsWithVS2015\exercise2\exercise2\obj\Debug\exercise2.exe
+C:\playground\CSharpFundamentalsWithVS2015\exercise2\exercise2\obj\Debug\exercise2.pdb
