@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace exercise3
 {
-    class GradeStatistics
+    public class GradeStatistics
     {
         public float AverageGrade;
         public float HighestGrade;

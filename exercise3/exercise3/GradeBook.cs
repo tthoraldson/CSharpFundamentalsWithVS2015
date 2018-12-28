@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace exercise3
 {
-    class GradeBook
+    public class GradeBook
     {
         public GradeBook()
         {
@@ -15,7 +15,7 @@ namespace exercise3
 
         public GradeStatistics ComputeStatistics()
         {
-            GradeStatistics stats = new exercise3.GradeStatistics();
+            GradeStatistics stats = new GradeStatistics();
             stats.HighestGrade = 0;
 
             float sum = 0;
@@ -34,6 +34,6 @@ namespace exercise3
         {
             grades.Add(grade);
         }
-        List<float> grades = new List<float>();
+        public List<float> grades = new List<float>();
     }
 }

@@ -1,2 +1,6 @@
 C:\playground\CSharpFundamentalsWithVS2015\exercise3\exercise3\bin\Debug\exercise3.exe.config
 C:\playground\CSharpFundamentalsWithVS2015\exercise3\exercise3\obj\Debug\exercise3.csprojResolveAssemblyReference.cache
+C:\playground\CSharpFundamentalsWithVS2015\exercise3\exercise3\bin\Debug\exercise3.exe
+C:\playground\CSharpFundamentalsWithVS2015\exercise3\exercise3\bin\Debug\exercise3.pdb
+C:\playground\CSharpFundamentalsWithVS2015\exercise3\exercise3\obj\Debug\exercise3.exe
+C:\playground\CSharpFundamentalsWithVS2015\exercise3\exercise3\obj\Debug\exercise3.pdb
