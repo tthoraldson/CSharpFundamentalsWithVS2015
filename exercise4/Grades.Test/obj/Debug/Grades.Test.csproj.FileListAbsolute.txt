@@ -1,0 +1,8 @@
+C:\playground\CSharpFundamentalsWithVS2015\exercise4\Grades.Test\obj\Debug\Grades.Test.csprojResolveAssemblyReference.cache
+C:\playground\CSharpFundamentalsWithVS2015\exercise4\Grades.Test\bin\Debug\Grades.Test.dll
+C:\playground\CSharpFundamentalsWithVS2015\exercise4\Grades.Test\bin\Debug\Grades.Test.pdb
+C:\playground\CSharpFundamentalsWithVS2015\exercise4\Grades.Test\bin\Debug\exercise4.exe
+C:\playground\CSharpFundamentalsWithVS2015\exercise4\Grades.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\playground\CSharpFundamentalsWithVS2015\exercise4\Grades.Test\bin\Debug\exercise4.pdb
+C:\playground\CSharpFundamentalsWithVS2015\exercise4\Grades.Test\obj\Debug\Grades.Test.dll
+C:\playground\CSharpFundamentalsWithVS2015\exercise4\Grades.Test\obj\Debug\Grades.Test.pdb
